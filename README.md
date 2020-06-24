@@ -2,7 +2,7 @@
 
 ## Sentiment analysis of "Covid-19" tweets from twitter using NLP and NB classifier algorithm
 
-Sentiment analysis of the COVID-19 pandemic in world and in India by People across the globe, Also classification of sentiments by using Multinomial naive Bayes algorithm.
+Sentiment analysis of the COVID-19 pandemic in the world and in India by People across the globe, Also classification of sentiments by using Multinomial naive Bayes algorithm.
 
 
 ### Flow of the project
